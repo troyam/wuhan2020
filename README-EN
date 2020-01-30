@@ -1,0 +1,71 @@
+Wuhan new coronavirus epidemic prevention information collection platform
+
+In response to the outbreak of the new coronavirus in Wuhan in early 2020, this project aims to collect information from hospitals, hotels, factories, logistics, donations, donations, prevention, treatment, and dynamics, and uniformly collect and release them for the various parties Information exchange and effective deployment of social resources.
+
+This warehouse is the main data warehouse. All data is automatically submitted and imported by the script. Please do not directly submit data information in this warehouse. For specific data submission channels, please refer to this document.
+
+Collaboration process
+
+In order to facilitate everyone's collaboration, this platform builds the following collaboration process
+
+img
+
+Except for the manual review of information, the other parts are automated and should not require manual intervention.
+
+The platform's main open source projects
+
+data synchronization
+
+Code repository: https://github.com/wuhan2020/data-sync
+Progressive web application
+
+Code warehouse: https://github.com/wuhan2020/WebApp
+Formal environment: https://wuhan2020.kaiyuanshe.cn/
+Back-end service: https://github.com/wuhan2020/rest-api
+API services
+
+Code warehouse: https://github.com/wuhan2020/api-server
+Map visualization components
+
+Code warehouse: https://github.com/wuhan2020/map-viz
+Graphite Synchronization Components
+
+Code warehouse: https://github.com/wuhan2020/shimo-sheet2json
+Data submission
+
+The information collected by this platform includes the following types of data submission, please report and fill in separately.
+
+This platform uses graphite documents to collect data information, and the script periodically synchronizes data to the warehouse. Please do not modify the data files directly in the warehouse.
+
+Due to the large number of participants, the editing rights of all personnel are not open. Please fill out the application here, and will direct invitations to specific forms for information entry.
+
+Graphite document address:
+
+hospital
+Hotel
+Logistics
+produce
+Donate
+Free consultation
+Accommodation information for tourists in Wuhan
+Contribution Guide
+
+please click here
+
+Information Collection Guide
+
+please click here
+
+Slack Communication Group
+
+Click to join the Slack community
+
+Everyone is welcome to join together to discuss various technical or non-technical issues. Let us all work together to achieve a common goal and overcome the difficulties!
+
+FAQ (Continuous update, recruit volunteers to maintain together)
+
+The FAQ for the entire project has been organized, please check
+
+Information Group FAQ, please see
+
+Please click on the graphite document
